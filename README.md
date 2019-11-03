@@ -1,2 +1,2 @@
-#SpaceShooter(Survive In Space)
+SpaceShooter(Survive In Space)
 The game was created using open resources.
