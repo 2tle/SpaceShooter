@@ -1,2 +1,3 @@
-SpaceShooter(Survive In Space)
-The game was created using open resources.
+# Survive in Space ( SpaceShooter ) 
+제가 만든 첫변째 미니게임입니다. 사방에서 나오는 적들을 쏘는 게임입니다. 중간에 아이템도 드랍되니 끝까지 살아남아 보세요!
+유니티 게임엔진을 이용해 개발하였습니다. Playmaker라는 에셋을 통해 쉽게 개발할 수 있었습니다.
